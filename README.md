@@ -51,3 +51,19 @@ The Modix Game Panel is a free, intuitive application designed to help you manag
 ⚠️ Important Notice
 
 Modix Game Panel is protected by copyright and cannot be reuploaded, redistributed, or shared without explicit written permission. Unauthorized distribution will result in immediate action to protect intellectual property rights.
+
+Change Log: 
+
+12/01/25 | Change: Minor Update
+
+- Discord tools: 
+Minor update to the "discord tools" stylishing has change little bit.
+
+- Update Button:
+Now shows the page forautomaic updates. #
+
+- File Manager: 
+Style updated. 
+
+- Mods: 
+Style updated. 
