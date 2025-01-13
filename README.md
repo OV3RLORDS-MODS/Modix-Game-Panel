@@ -1,8 +1,8 @@
+🌟 Modix Game Panel – Simplify Your Game Server Management! 🌟
+
 - Download: https://github.com/OV3RLORDS-MODS/Modix-Game-Panel
 - How To Install: http://45.10.161.92:5050/installation
 - https://discord.gg/EwWZUSR9tM
-
-🌟 Modix Game Panel – Simplify Your Game Server Management! 🌟
 
 Developed by OV3RLORD, Modix Game Panel is built to simplify game server management, with a focus on Project Zomboid. While still under development, it already includes powerful features to make managing servers more efficient and straightforward. Plus, it's free for personal use.
 
