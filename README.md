@@ -6,3 +6,6 @@ Created by OV3RLORD | 2024 - 2025
 
 ----------------------------------------------------------------------------------
 
+📂 What is Modix?
+
+Modix is a free, user-friendly application that allows you to manage your Project Zomboid game servers seamlessly. With Modix, you can easily start, stop, and configure your server, manage mods, schedule tasks, and perform other server management functions with just a few clicks.
