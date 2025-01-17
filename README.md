@@ -5,7 +5,7 @@ Created by OV3RLORD | 2024 - 2025
 ----------------------------------------------------------------------------------
 
 
-📄 Installation Guide: Modix Installation - http://45.10.161.92:5050/installation *Most updated verison here*
+📄 Installation Guide: Modix Installation - http://45.10.161.92:5050/installation
 
 
 Welcome to the Modix installation guide. Follow the steps below to install and set up Modix on your VPS or local machine.
