@@ -1,6 +1,6 @@
 Created by OV3RLORD | 2024 - 2025
 
-🎮 Official Discord: Join Here
+🎮 Official Discord: [Join Here](https://discord.gg/EwWZUSR9tM)
 
 📄 Most Updated Installation Guide: Modix Installation
 
