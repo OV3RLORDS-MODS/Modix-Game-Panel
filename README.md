@@ -7,12 +7,15 @@ Created by OV3RLORD | 2024 - 2025
 
 📄 Installation Guide: Modix Installation - http://45.10.161.92:5050/installation *Most updated verison here*
 
+
 Welcome to the Modix installation guide. Follow the steps below to install and set up Modix on your VPS or local machine.
 
 Step 1: Install Python
+
 Ensure you have Python 3.8 or higher installed. If you don't have Python installed, download it from the official website:
 
 Download Python
+
 Step 2: Verify Python Installation
 To confirm Python is installed, run the following command in your terminal:
 
