@@ -15,7 +15,7 @@ Welcome to the Modix installation guide. Follow the steps below to install and s
 Make sure Python 3.8 or higher is installed on your machine.
 If you don't have Python installed, download the latest version from the official website:
 
-🔗 Download Python [Download]([https://discord.gg/EwWZUSR9tM](https://www.python.org/downloads/))
+🔗 Download Python [Join Here](https://discord.gg/EwWZUSR9tM)
 
 ✔️ Step 2: Verify Python Installation
 To confirm Python is installed, run the following command in your terminal:
