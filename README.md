@@ -2,12 +2,10 @@ Created by OV3RLORD | 2024 - 2025
 
 🎮 Official Discord: [Join Here](https://discord.gg/EwWZUSR9tM)
 
-📄 Most Updated Installation Guide: Modix Installation
-
 ----------------------------------------------------------------------------------
 
 
-Most Updated Installation Guide: Modix Installation
+📄 Installation Guide: Modix Installation - http://45.10.161.92:5050/installation *Most updated verison here*
 
 Welcome to the Modix installation guide. Follow the steps below to install and set up Modix on your VPS or local machine.
 
