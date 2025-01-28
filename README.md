@@ -1,4 +1,4 @@
-Created by OV3RLORD | 2024 - 2025
+Created by OV3RLORD | 2024 - 2025 Modix Game Panel
 🎮 Official Discord: [Join Here](https://discord.gg/EwWZUSR9tM)
 ----------------------------------------------------------------------------------
 
