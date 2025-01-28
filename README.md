@@ -4,13 +4,9 @@ Created by OV3RLORD | 2024 - 2025
 https://www.virustotal.com/gui/url/4d74382cda1581e235fa643cd0b499a5b6a9dc7848cb206cb6a7177a48404674
 ----------------------------------------------------------------------------------
 
-**🎮 Modix Game Panel v1.0.2 – Your Ultimate Project Zomboid Server Manager
+**🎮 Modix Game Panel v1.0.3 
 
 P.S It's free.
-
-Download: https://discord.gg/EwWZUSR9tM
-
-Currently only available in my discord.
 
 - Take Control of Your Project Zomboid Server with Ease!
 
