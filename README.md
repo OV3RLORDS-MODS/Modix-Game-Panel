@@ -6,8 +6,6 @@ https://www.virustotal.com/gui/url/4d74382cda1581e235fa643cd0b499a5b6a9dc7848cb2
 
 **🎮 Modix Game Panel v1.0.3 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lfyC6VQr0XU?si=PH5kHHA4PZ8rDcfe" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
 - Take Control of Your Project Zomboid Server with Ease!
 
 Are you looking to streamline your Project Zomboid server management? Look no further! Modix Game Panel is here to revolutionize the way you handle your game servers, offering a suite of powerful tools and an intuitive interface designed for both beginners and seasoned server administrators.
