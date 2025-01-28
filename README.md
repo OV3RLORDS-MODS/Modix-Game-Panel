@@ -1,7 +1,5 @@
 Created by OV3RLORD | 2024 - 2025
 🎮 Official Discord: [Join Here](https://discord.gg/EwWZUSR9tM)
-
-https://www.virustotal.com/gui/url/4d74382cda1581e235fa643cd0b499a5b6a9dc7848cb206cb6a7177a48404674
 ----------------------------------------------------------------------------------
 
 **🎮 Modix Game Panel v1.0.3 
@@ -37,6 +35,8 @@ Active Support: Join our Discord community for real-time support, updates, and t
 📈 Stay Ahead with Continuous Updates
 
 I'm committed to enhancing your server management experience. Stay tuned for regular updates that bring new features, improvements, and optimisations to keep your Project Zomboid server running at its best.**
+
+https://www.virustotal.com/gui/url/4d74382cda1581e235fa643cd0b499a5b6a9dc7848cb206cb6a7177a48404674
 
 ----------------------------------------------------------------------------------
 
