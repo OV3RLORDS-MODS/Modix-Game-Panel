@@ -1,5 +1,6 @@
 Created by OV3RLORD | 2024 - 2025 Modix Game Panel
 🎮 Official Discord: [Join Here](https://discord.gg/EwWZUSR9tM)
+Workshop: https://steamcommunity.com/sharedfiles/filedetails/?id=3320238921
 ----------------------------------------------------------------------------------
 
 **🎮 Modix Game Panel v1.0.3 
